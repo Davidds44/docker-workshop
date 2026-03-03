@@ -1,0 +1,7 @@
+{
+    "dbt.deferConfigPerProject": {
+        "taxi_rides_ny": {
+            "deferToProduction": false
+        }
+    }
+}
